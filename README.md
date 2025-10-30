@@ -13,6 +13,9 @@
 --
 
 ## 대시보드
+[INFO](#info)
+[Details](#details-부분)
+[Details-인용정보](#details---인용정보-부분)
 ### INFO
 ![](images/PaperScope_info.png)
 논문 발행의 전체적인 정보를 확인 할 수 있는 부분
