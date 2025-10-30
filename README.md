@@ -3,7 +3,7 @@
 --
 ## 🌵papescope 폴더구조
 ```
-├─Analysis       # 전처리 코드 또는 분석용 테이블 생성 쿼리
+├─Analysis       # 분석용 테이블 생성 쿼리
 ├─Dashboard      # 대시보드
 └─ETL            # raw data 추출, 변환 및 저장 코드
     ├─csv        # 추출된 csv 데이터
