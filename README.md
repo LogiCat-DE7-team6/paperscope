@@ -17,7 +17,7 @@
 [2. Details](#details-부분)<br>
 [3. Details-인용정보](#details---인용정보-부분)<br>
 ### INFO
-![](images/PaperScope_info.png)
+![](Dashboard/PaperScope_info.png)
 논문 발행의 전체적인 정보를 확인 할 수 있는 부분
 
 - 논문 발행 추이: 일별·월별 발행 논문 수를 Big Number, 잔디 차트(Heatmap), Bar 차트를 통해 시각화하여 연구 활동의 전반적인 흐름을 한눈에 파악
@@ -27,7 +27,7 @@
 
 
 ### Details 부분
-![](images/PaperScope_detail.gif)
+![](Dashboard/PaperScope_detail.gif)
 상세 대시보드
 : 필터 기능을 통해 사용자가 원하는 분야 및 하위 분야별 연구 현황을 선택적으로 조회할 수 있도록 구성
 
@@ -39,7 +39,7 @@
 
 
 ### Details - 인용정보 부분
-![](images/PaperScope_detail_cited.gif)
+![](Dashboard/PaperScope_detail_cited.gif)
 상세 대시보드 - 인용정보
 
 - 최근 인용 상위 논문 TOP10: Bar 차트를 통해 최근 3개월 및 10년간 인용 횟수가 높은 논문을 시각적으로 확인
