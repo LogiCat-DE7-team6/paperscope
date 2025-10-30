@@ -1,6 +1,7 @@
 # Extract Data from OpenAlex
 
 ### GOOGLE DRIVE URL 주소
+용량 문제로 json 파일은 구글 드라이브를 사용해 업로드 및 공유
 - 김소정(250801~250820) "https://drive.google.com/file/d/1Sz7EKKqJ1h1IgDzkt1n067piNkf35PbG/view?usp=drive_link"
 - 고민지(250821~250910) "https://drive.google.com/file/d/1Smu95qRu1DdFomuTPZqQW1ZOU7J-5fR4/view?usp=sharing"
 - 박채은(250911~250930) "https://drive.google.com/file/d/1HYFRmYhZ2xCXrLKKBpLSERrVZp_Saubx/view?usp=sharing"
